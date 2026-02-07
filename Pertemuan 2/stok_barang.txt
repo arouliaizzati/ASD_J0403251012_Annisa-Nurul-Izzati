@@ -1,0 +1,16 @@
+BRG001,Roti,20
+BRG002,Air Mineral,15
+BRG003,Teh Botol,10
+BRG004,Susu Kotak,12
+BRG005,Mie Instan,30
+BRG006,Gula Pasir,25
+BRG007,Kopi Sachet,40
+BRG008,Biskuit,18
+BRG009,Coklat Batang,14
+BRG010,Minyak Goreng,22
+BRG011,Beras,50
+BRG012,Garam,16
+BRG013,Kecap Manis,19
+BRG014,Saus Sambal,17
+BRG015,Telur,35
+BRG016,Jeruk,5

@@ -54,9 +54,4 @@ ll.delete_node(9)
 ll.display()
 
 
-#masukkan datanya
-cll= CircularSinglyLinkedList
-for x in [3,6,34,7,13,5]:
-    cll.insert_at_end(x)
-cll.display()
 
